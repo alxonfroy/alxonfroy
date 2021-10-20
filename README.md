@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alxonfroy
-- 👀 I’m interested in ...cmd linix win server
+- 👀 I’m interested in ...cmd linux win server
 - 🌱 I’m currently learning ...ciber security
 - 💞️ I’m looking to collaborate on ...students  and my people
 - 📫 How to reach me ...zzzzzzzzz
